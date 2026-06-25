@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "task": "Learn Node.js basics",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "Build a REST API",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "task": "Complete the assignment",
+    "completed": false
+  }
+]
